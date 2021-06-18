@@ -4,3 +4,5 @@
 
 * git clone URL
 * git add . (this one will save the changes)
+add smth
+git commit -m(t)
