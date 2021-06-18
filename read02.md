@@ -6,3 +6,5 @@
 * git add . (this one will save the changes)
 add smth
 git commit -m(t)
+
+*so its a tool to make commands with ability if making versions of each file
