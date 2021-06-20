@@ -1,0 +1,1 @@
+### css is languag we use to colorfull web pages and it comes aftr the strucure in html and we wn add photos and weidth and hight and the background and we conect the css wth html by linking each other using "style.css">
